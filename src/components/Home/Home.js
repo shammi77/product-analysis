@@ -1,4 +1,5 @@
 import React from 'react';
+import { Button } from 'react-bootstrap';
 import './Home.css';
 
 
@@ -13,6 +14,7 @@ const Home = () => {
                 <img height='400px' width='500px' src='https://www.cthawards.com/wp-content/uploads/2019/10/you-can-now-be-sued-for-writing-a-negative-restaurant-review-article-img.jpg' alt='' />
                 
             </div>
+            <Button className='btn'>See all Reviews</Button>
         </div>
     );
 };
