@@ -1,6 +1,7 @@
 # Restaurant Review Website
 
-Private Repo link: https://github.com/programming-hero-web-course-4/product-analysis-website-shammi77
+# Live website link
+https://lucky-druid-2fd3da.netlify.app/
 
 Features:
 
